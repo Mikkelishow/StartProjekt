@@ -1,2 +1,0 @@
-print ("goodbuy");
-print ("goodbut my dear friend")
